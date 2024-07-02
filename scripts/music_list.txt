@@ -1,0 +1,2 @@
+#duppie = https://www.youtube.com/playlist?list=PL06bPckH3IO2yh8HSeXSs9eYOTqAJjNB3
+slog = https://www.youtube.com/watch?v=GVEl0nk7D8I&list=PL06bPckH3IO0iJqDahc_VaVO-mi5SQwdE&pp=gAQBiAQB
